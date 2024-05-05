@@ -1,4 +1,4 @@
-test
+This project contains all AWS resources for Penny Pilot
 
 # Welcome to your CDK TypeScript project
 
